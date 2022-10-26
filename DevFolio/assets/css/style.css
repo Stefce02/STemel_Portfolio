@@ -148,6 +148,10 @@ a:hover {
   font-size: 1.1rem;
 }
 
+.title-m {
+  font-size: 1.5rem;
+}
+
 /*--/ Title A /--*/
 .title-box {
   margin-bottom: 4rem;
@@ -858,8 +862,9 @@ a:hover {
   }
 }
 
-.skill-mf span {
+.skill-mf {
   color: #4e4e4e;
+  margin-left: 0.5rem;
 }
 
 /*--------------------------------------------------------------
