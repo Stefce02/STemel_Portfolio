@@ -1107,3 +1107,12 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.work-img-fixed {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border: 0.125px solid #8e8d8d;
+  border-radius: 5px;
+}
+
